@@ -1,0 +1,39 @@
+Package: com.lichongjia.fingertouch2
+Version: 0.0.7
+Section: Tweaks
+Maintainer: lichongjia <lichongjia@vip.qq.com>
+Depends: mobilesubstrate, preferenceloader, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Filename: ./deb/com.lichongjia.ft2_0.0.7.deb
+Size: 23816
+MD5sum: c63e8777a6bf3d4d80800ea1d325d05a
+Name: FingerTouch2
+Author: Michele Primavera
+
+Package: com.lichongjia.liberty
+Version: 0.2.10
+Section: Tweaks
+Maintainer: lichongjia <lichongjia@vip.qq.com>
+Depends: mobilesubstrate, preferenceloader, applist, firmware (<< 11.0)
+Conflicts: com.lichongjia.libertylite
+Architecture: iphoneos-arm
+Filename: ./deb/com.lichongjia.liberty_0.2.10.deb
+Size: 70004
+MD5sum: 02996e496ad2b573d2bdf054e3af88f1
+Name: Liberty
+Author: Ryley Angus
+Icon: file:///Library/PreferenceBundles/LibertyPref.bundle/LibertyPref@3x.png
+
+Package: com.lichongjia.tage
+Version: 1.2.1-1
+Section: Tweaks
+Maintainer: lichongjia <lichongjia@vip.qq.com>
+Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader (>= 2.0)
+Architecture: iphoneos-arm
+Filename: ./deb/com.lichongjia.tage_1.2.1-1.deb
+Size: 308948
+MD5sum: e870b04b9ed988794147bd6ad76aaf64
+Name: Tage
+Author: Ma Jun <majun3@gmail.com>
+Icon: file:////Library/PreferenceBundles/TageSettings.bundle/Icon-small@2x.png
+
